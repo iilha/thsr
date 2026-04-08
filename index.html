@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="initial-scale=1.0, user-scalable=yes">
-  <meta name="theme-color" content="#1976d2">
+  <meta name="theme-color" content="#E65100">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>Taiwan High Speed Rail</title>
@@ -1400,7 +1400,7 @@ function setupTabs() {
 async function initialize() {
   console.log('[THSR] Initializing...');
 
-  const savedLang = localStorage.getItem('ubike-lang');
+  const savedLang = localStorage.getItem('thsr-lang');
   if (savedLang) isZh = savedLang === 'zh';
 
   // Get user location (non-blocking)
