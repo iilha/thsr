@@ -1,3 +1,5 @@
+English | [繁體中文](README_zh.md)
+
 # Taiwan High Speed Rail
 
 Taiwan High Speed Rail (THSR) timetable and station information app. View train schedules, station details, and real-time departure information for Taiwan's high-speed rail network.
