@@ -36,7 +36,6 @@ The app is built with vanilla JavaScript, HTML5, and Leaflet maps. It can be ser
 
 ### Navigation Header
 - Language toggle button (EN/中文)
-- Links to other transport apps (YouBike, MRT, Rail, Bus)
 - Active state highlighting
 
 ### Station Selectors (Sidebar)
