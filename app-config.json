@@ -1,0 +1,9 @@
+{
+  "appId": "thsr",
+  "appName": "uthsr  Monitor",
+  "apiBase": "https://api.transport-pwa.com/thsr",
+  "siteBase": "https://thsr.transport-pwa.com/",
+  "supportEmail": "transport-pwa@googlegroups.com",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=tw.pwa.thsr",
+  "storagePrefix": "thsr_"
+}
