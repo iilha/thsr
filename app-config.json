@@ -1,7 +1,7 @@
 {
   "appId": "thsr",
   "appName": "uthsr  Monitor",
-  "apiBase": "https://api.transport-pwa.com/thsr",
+  "apiBase": "https://app.octileapp.workers.dev",
   "siteBase": "https://thsr.transport-pwa.com/",
   "workerUrl": "https://api.octile.eu.cc",
   "eventsUrl": "https://api.octile.eu.cc/events",
