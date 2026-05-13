@@ -1091,9 +1091,10 @@ function setViewMode(mode) {
 }
 
 // Use shared utilities from common.js
-function toggleLang() {
+async function toggleLang() {
   isZh = !isZh;
   saveLanguage(isZh ? 'zh' : 'en');
+  await applyLanguage(isZh ? 'zh' : 'en');
   updateUI();
 }
 
