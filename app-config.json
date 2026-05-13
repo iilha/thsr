@@ -2,7 +2,7 @@
   "appId": "thsr",
   "appName": "uthsr  Monitor",
   "apiBase": "https://api.octile.eu.cc",
-  "siteBase": "https://thsr.transport-pwa.com/",
+  "siteBase": "https://iilha.github.io/thsr/",
   "features": {
     "events": true
   },
